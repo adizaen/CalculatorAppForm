@@ -1,0 +1,10 @@
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe.config
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Form1.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.pdb
