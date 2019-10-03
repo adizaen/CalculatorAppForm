@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWindowsFormsApp",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWindowsFormsTugas", "CalculatorWindowsFormsTugas\CalculatorWindowsFormsTugas.csproj", "{D02B5C22-DB8E-4378-B1FB-2A4656B2B8DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorMachine", "CalculatorMachine\CalculatorMachine.csproj", "{B55D6C8D-618B-4050-B8E4-0A839F91FD58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D02B5C22-DB8E-4378-B1FB-2A4656B2B8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D02B5C22-DB8E-4378-B1FB-2A4656B2B8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D02B5C22-DB8E-4378-B1FB-2A4656B2B8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55D6C8D-618B-4050-B8E4-0A839F91FD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55D6C8D-618B-4050-B8E4-0A839F91FD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55D6C8D-618B-4050-B8E4-0A839F91FD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55D6C8D-618B-4050-B8E4-0A839F91FD58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

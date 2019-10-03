@@ -5,3 +5,6 @@ D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorConsol
 D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
 D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
 D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorMachine.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorMachine.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CopyComplete
